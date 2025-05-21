@@ -338,7 +338,7 @@ module.exports = drayyy = async (_0x554af5, _0x5dd2ef, _0x272fda, _0x1e3526, _0x
     }
     if (_0x5dd2ef.message) {
       _0x554af5.sendPresenceUpdate("available", _0x5dd2ef.chat);
-      console.log("[1;31m~[1;37m>", "[[1;32m 𝐅𝐀HEE𝐌 [1;37m]", _0x437c7f, chalk.blue(_0x349f58 || _0x5dd2ef.mtype), 'FAMOFC');
+      console.log("[1;31m~[1;37m>", "[[1;32m 𝐅 Altesse[1;37m]", _0x437c7f, chalk.blue(_0x349f58 || _0x5dd2ef.mtype), 'FAMOFC');
     }
     for (let _0x5496fa of _0x54c711) {
       if (_0x349f58 === _0x5496fa) {
@@ -558,7 +558,7 @@ module.exports = drayyy = async (_0x554af5, _0x5dd2ef, _0x272fda, _0x1e3526, _0x
               'previewType': "PHOTO",
               'thumbnailUrl': "youtube.com/@drayyyxd",
               'thumbnail': fs.readFileSync('./zeno/Xynz.jpg'),
-              'sourceUrl': "https://chat.whatsapp.com/HxrdD5Cma0FHc0zluwXVlt"
+              'sourceUrl': "https://chat.whatsapp.com/EGSeev12now6YTZYlTAxkr"
             }
           }
         }, {
@@ -682,14 +682,14 @@ _0x554af5.sendMessage(_0x5dd2ef.chat,reactionMessage)
                 },
                 'interactiveMessage': proto.Message.InteractiveMessage.fromObject({
                   'body': proto.Message.InteractiveMessage.Body.fromObject({
-                    'text': "╭⫸ ⟬     𝐅𝐀𝐌.𝐎𝐅𝐂    -    𝐕𝟕     ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : 𝐅𝐀𝐌.𝐎𝐅𝐂-𝐕𝟕\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗           : " + global.namaowner + "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+923350963366\n╰⪩｟   𝖅𝖊𝖓𝖔 𝕹𝖔 𝕮𝖔𝖚𝖓𝖙𝖊𝖗  ｠⪨╯"
+                    'text': "╭⫸ ⟬     Alien.Vortex   -    𝐕𝟕     ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : 𝐅𝐀𝐌.𝐎𝐅𝐂-𝐕𝟕\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗           : " + global.namaowner + "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+923350963366\n╰⪩｟   𝖅𝖊𝖓𝖔 𝕹𝖔 𝕮𝖔𝖚𝖓𝖙𝖊𝖗  ｠⪨╯"
                   }),
                   'carouselMessage': proto.Message.InteractiveMessage.CarouselMessage.fromObject({
                     'cards': [{
                       'body': proto.Message.InteractiveMessage.Body.fromObject({}),
                       'footer': proto.Message.InteractiveMessage.Footer.fromObject({}),
                       'header': proto.Message.InteractiveMessage.Header.fromObject({
-                        'title': "╭≫ 🌹 𝐒𝐞𝐥𝐞𝐜𝐭 𝐌𝐞𝐧𝐮 🌹\n> ⚡︎ ᴬᴸᴸᴹᴱᴺᵁ\n> ⚡︎ ᴮᵁᴳᴹᴱᴺᵁ\n> ⚡︎ ᴺᴱᵂᴹᴱᴺᵁ\n╰──────✧˙\n",
+                        'title': "╭≫ 🪰 𝐒𝐞𝐥𝐞𝐜𝐭 𝐌𝐞𝐧𝐮 🪰\n> ⚡︎ ᴬᴸᴸᴹᴱᴺᵁ\n> ⚡︎ ᴮᵁᴳᴹᴱᴺᵁ\n> ⚡︎ ᴺᴱᵂᴹᴱᴺᵁ\n╰──────✧˙\n",
                         'hasMediaAttachment': true,
                         ...(await prepareWAMessageMedia({
                           'image': _0x5921de
@@ -744,12 +744,12 @@ _0x554af5.sendMessage(_0x5dd2ef.chat,reactionMessage)
         
         case 'newmenu': {
 let faheemkhanfamofc = `
-\n╭⫸ ⟬ Son.Altesse - 𝐕𝟕 ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : Son.Altesse-𝐕𝟕\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗          : " ${global.namaowner} "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+243905526836\n
+\n╭⫸ ⟬ Son.Alien-Vortex - 𝐕1 ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : Son.Altesse-𝐕𝟕\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗          : " ${global.namaowner} "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+243905526836\n
 
-*<!> Bot By Faheem <!>*
+*<!> Bot By Son Altesse <!>*
 _Çrêàtør Înførmâtîøns_
 > Telegram
-> https://t.me/faheemxyz
+> https://t.me/Altesse
 > YouTube 
 > https://youtube.com/@Altesse
 > 
@@ -757,12 +757,12 @@ _Çrêàtør Înførmâtîøns_
 \n\n
 > Commands
 ╭ᕗ ⌜ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔 ⌟\n> addmurbug 243xxxx\n> dellmurbug 243xxxx\n> addgcmurbug\n> dellgcmurbug\n╰━━━☯︎\n
-╭ᕗ ⌜ 𝐁𝐔𝐆 𝐅𝐀𝐌.𝐎𝐅𝐂 ⌟\n> Alresseᴠ1 243xxxx\n
+╭ᕗ ⌜ 𝐁𝐔𝐆 Alien.Vortex ⌟\n> Alien-Vortex1 243xxxx\n
 ╭ᕗ ⌜ 𝐁𝐔𝐆 𝐔𝐈 ⌟\n> ʜɪᴛᴀᴍ 243xxxx\n
 ╭ᕗ ⌜ 𝐁𝐔𝐆 𝐖𝐀𝐑 ⌟\n> ᴡᴀʀ1 243xxxx\n
 ╭ᕗ ⌜ 𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔 ⌟\n> akses\n> delakses\n> hidetag\n> tagall\n> promote\n> demote\n> antilink\n> antilink2\n> open\n> close\n> jeda\n> welcome\n> left\n> setwelcome\n> changewelcome\n> delsetwelcome\n> setleft\n> changeleft\n> delsetleft\n> delete\n> kick\n> setnamagc\n> linkgc\n> setlinkgc\n> setdesk\n╰━━━☯︎\n
 ╭ᕗ ⌜ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔 ⌟\n> ytmp4\n> ytmp3\n> dtiktok\n> mediafire\n> playmp4\n> playmp3\n> spotify\n╰━━━☯︎\n
-> © Powered By 𝐅𝐀HEE𝐌`
+> © Powered By Son Altesse 👑`
 await _0x554af5.sendMessage(_0x5dd2ef.chat, {image: {url: thumburl}, caption: faheemkhanfamofc}, {quoted: m})
 await _0x554af5.sendMessage(_0x5dd2ef.chat, {audio: fs.readFileSync('./zeno/draybergoyang.mp3'), mimetype:'audio/mpeg', ptt: true}, {quoted: m})
 }
@@ -792,7 +792,7 @@ break
                 'interactiveMessage': proto.Message.InteractiveMessage.fromObject({
                   'body': proto.Message.InteractiveMessage.Body.fromObject({
                     'text': "╭⫸ ⟬     Son.Altesse    -    Alien-vortex     ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : Alien-𝐕ortex 
-	                 1\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗           : " + global.namaowner + "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+243905526836\n╰⪩｟   𝖅𝖊𝖓𝖔 𝕹𝖔 𝕮𝖔𝖚𝖓𝖙𝖊𝖗  ｠⪨╯"
+	                 1\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : Son Altesse 👑\n║↝ 𝕺𝖜𝖓𝖊𝖗           : " + global.namaowner + "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+243905526836\n╰⪩｟   𝖅𝖊𝖓𝖔 𝕹𝖔 𝕮𝖔𝖚𝖓𝖙𝖊𝖗  ｠⪨╯"
                   }),
                   'contextInfo': {
                     'isForwarded': false
@@ -855,19 +855,19 @@ break
                       'nativeFlowMessage': proto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
                         'buttons': [{
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐅𝐀𝐌_𝐎𝐅𝐂_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎Son_Altesse_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://Altesse.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@famofch4k3r\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/famofc\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/channel/0029VaafKmcEAKWDuiQTHM2m\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\'https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y'\",\"merchant_url\":\"https://www.google.com\"}"
                         }]
                       })
                     }]
@@ -907,7 +907,7 @@ break
                 },
                 'interactiveMessage': proto.Message.InteractiveMessage.fromObject({
                   'body': proto.Message.InteractiveMessage.Body.fromObject({
-                    'text': "╭⫸ ⟬     𝐅𝐀𝐌.𝐎𝐅𝐂    -    𝐕𝟕     ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : 𝐅𝐀𝐌.𝐎𝐅𝐂-𝐕𝟕\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗           : " + global.namaowner + "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+923350963366\n╰⪩｟   𝖅𝖊𝖓𝖔 𝕹𝖔 𝕮𝖔𝖚𝖓𝖙𝖊𝖗  ｠⪨╯"
+                    'text': "╭⫸ ⟬     Alien.Vortex    -    𝐕1    ⟭ ⫷╮\n║↝ 𝕹𝖆𝖒𝖆 𝕭𝖔𝖙    : 𝐅𝐀𝐌.𝐎𝐅𝐂-𝐕𝟕\n║↝ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓        : 𝟕.𝟎\n║↝ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗     : 𝐅𝐀HEE𝐌\n║↝ 𝕺𝖜𝖓𝖊𝖗           : " + global.namaowner + "\n║ ➥ ᑲᥙᥡ sᥴrі⍴𝗍? https://Wa.me/+923350963366\n╰⪩｟   𝖅𝖊𝖓𝖔 𝕹𝖔 𝕮𝖔𝖚𝖓𝖙𝖊𝖗  ｠⪨╯"
                   }),
                   'contextInfo': {
                     'isForwarded': false
@@ -915,26 +915,26 @@ break
                   'carouselMessage': proto.Message.InteractiveMessage.CarouselMessage.fromObject({
                     'cards': [{
                       'header': proto.Message.InteractiveMessage.Header.fromObject({
-                        'title': "╭ᕗ ⌜ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔 ⌟\n> addmurbug 92xxxx\n> dellmurbug 92xxxx\n> addgcmurbug\n> dellgcmurbug\n╰━━━☯︎\n",
+                        'title': "╭ᕗ ⌜ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔 ⌟\n> addmurbug 243xxxx\n> dellmurbug 243xxxx\n> addgcmurbug\n> dellgcmurbug\n╰━━━☯︎\n",
                         'hasMediaAttachment': true,
                         ..._0x37ae68
                       }),
                       'nativeFlowMessage': proto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
                         'buttons': [{
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐅𝐀𝐌_𝐎𝐅𝐂_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎Son_Altesse_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@famofch4k3r\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/famofc\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/channel/0029VaafKmcEAKWDuiQTHM2m\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y\",\"merchant_url\":\"https://www.google.com\"}"
                         }]
                       })
                     }, {
@@ -946,19 +946,19 @@ break
                       'nativeFlowMessage': proto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
                         'buttons': [{
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐅𝐀𝐌_𝐎𝐅𝐂_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎Son_Altesse_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@famofch4k3r\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/famofc\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/channel/0029VaafKmcEAKWDuiQTHM2m\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y\",\"merchant_url\":\"https://www.google.com\"}"
                         }]
                       })
                     }, {
@@ -970,19 +970,19 @@ break
                       'nativeFlowMessage': proto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
                         'buttons': [{
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐅𝐀𝐌_𝐎𝐅𝐂_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎Son_Altesse_𝐓𝐎𝐎𝐋↯\",\"url\":\"https://fam-ofc.serv00.net/in/\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://youtube.com/@famofch4k3r\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐘𝐎𝐔𝐓𝐔𝐁𝐄_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/famofc\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://t.me/Altesse\",\"merchant_url\":\"https://www.google.com\"}"
                         },
                         {
                           'name': "cta_url",
-                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://whatsapp.com/channel/0029VaafKmcEAKWDuiQTHM2m\",\"merchant_url\":\"https://www.google.com\"}"
+                          'buttonParamsJson': "{\"display_text\":\"♐︎𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐂𝐇𝐀𝐍𝐍𝐄𝐋↯\",\"url\":\"https://https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y\",\"merchant_url\":\"https://www.google.com\"}"
                         }]
                       })
                     }, {

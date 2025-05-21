@@ -35,10 +35,10 @@ const Styles = (text, style = 1) => {
   return output.join('');
 };
 
-global.namaowner = "faheem khan"
-global.owner = "923350963366"
-global.namabot = "fam-V6"
-global.botname = "fam-V6"
+global.namaowner = "Son Altesse"
+global.owner = "243905526836"
+global.namabot = "Alien-Vortex"
+global.botname = "Alien-vortex"
 global.simbol = "⌑"
 global.autoJoin = false
 global.domain = "-"
